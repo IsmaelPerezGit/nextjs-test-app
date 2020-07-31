@@ -1,0 +1,1 @@
+{"ast":null,"code":"const Index = () => {\n  return DataView;\n};","map":{"version":3,"sources":["/Users/ismaelperez/Workspace/Javascript/React/nextjs-test-app/pages/index.js"],"names":["Index","DataView"],"mappings":"AAAA,MAAMA,KAAK,GAAG,MAAM;AAChB,SAAOC,QAAP;AACH,CAFD","sourcesContent":["const Index = () => {\n    return DataView;\n};\n"]},"metadata":{},"sourceType":"script"}
