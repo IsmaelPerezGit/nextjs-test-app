@@ -7,9 +7,8 @@ const Index = () => {
             <h1>SSR Magician</h1>
             <Image />
             <br />
-            <Link href="./about">
-                <a>About</a>
-            </Link>
+            <Link href="./about">About</Link>
+            <Link href="./robots">Robots</Link>
         </div>
     );
 };
